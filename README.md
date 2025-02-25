@@ -1,0 +1,1 @@
+#### This is a simple project using HTML, CSS, and JavaScript that changes the background color when a button is clicked. The background color changes to match the color of the clicked button.
